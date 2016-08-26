@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Podcasts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-26 10:11+0000\n"
+"PO-Revision-Date: 2016-08-26 10:11+0000\n"
+"Last-Translator: Horttcore <me@horttcore.de>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://horttcore.de"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://horttcore.de"
+msgstr "https://horttcore.de"
+
+#: classes/custom-post-type-podcasts.admin.php:43 
+#: classes/custom-post-type-podcasts.admin.php:46
+msgid "Podcast updated."
+msgstr "Podcast aktualisiert."
+
+#: classes/custom-post-type-podcasts.admin.php:44
+msgid "Custom field updated."
+msgstr "Benutzerdefiniertes Feld aktualisiert."
+
+#: classes/custom-post-type-podcasts.admin.php:45
+msgid "Custom field deleted."
+msgstr "Benutzerdefiniertes Feld gelöscht."
+
+#. translators: %s: date and time of the revision
+#: classes/custom-post-type-podcasts.admin.php:48
+msgid "Podcast restored to revision from %s"
+msgstr "Podcast aus Revision vom %s wiederhergestellt."
+
+#: classes/custom-post-type-podcasts.admin.php:49
+msgid "Podcast published."
+msgstr "Podcast veröffentlicht."
+
+#: classes/custom-post-type-podcasts.admin.php:50
+msgid "Podcast saved."
+msgstr "Podcast gespeichert."
+
+#: classes/custom-post-type-podcasts.admin.php:51
+msgid "Podcast submitted."
+msgstr "Podcast abgeschickt."
+
+#: classes/custom-post-type-podcasts.admin.php:52
+msgid "Podcast scheduled for: <strong>%1$s</strong>."
+msgstr "Podcast geplant für %s."
+
+#. translators: Publish box date format, see http://php.net/date
+#: classes/custom-post-type-podcasts.admin.php:54
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ H:i"
+
+#: classes/custom-post-type-podcasts.admin.php:56
+msgid "Podcast draft updated."
+msgstr "Podcastentwurf aktualisiert."
+
+#: classes/custom-post-type-podcasts.admin.php:62 
+#: classes/custom-post-type-podcasts.php:65
+msgid "View podcast"
+msgstr "Podcast ansehen"
+
+#: classes/custom-post-type-podcasts.admin.php:68
+msgid "Preview podcast"
+msgstr "Podcast-Vorschau"
+
+#: classes/custom-post-type-podcasts.php:59
+msgctxt "post type general name"
+msgid "Podcasts"
+msgstr "Podcasts"
+
+#: classes/custom-post-type-podcasts.php:60
+msgctxt "post type singular name"
+msgid "Podcast"
+msgstr "Podcast"
+
+#: classes/custom-post-type-podcasts.php:61
+msgctxt "podcast"
+msgid "Add New"
+msgstr "Erstellen"
+
+#: classes/custom-post-type-podcasts.php:62
+msgid "Add New podcast"
+msgstr "Neuen Podcast erstellen"
+
+#: classes/custom-post-type-podcasts.php:63
+msgid "Edit podcast"
+msgstr "Podcast bearbeiten"
+
+#: classes/custom-post-type-podcasts.php:64
+msgid "New podcast"
+msgstr "Neuer Podcast"
+
+#: classes/custom-post-type-podcasts.php:66
+msgid "Search podcasts"
+msgstr "Podcasts durchsuchen"
+
+#: classes/custom-post-type-podcasts.php:67
+msgid "No podcasts found"
+msgstr "Keine Podcasts gefunden."
+
+#: classes/custom-post-type-podcasts.php:68
+msgid "No podcasts found in Trash"
+msgstr "Keine Podcasts im Papierkorb gefunden."
+
+#: classes/custom-post-type-podcasts.php:70
+msgid "Podcasts"
+msgstr "Podcasts"
+
+#: classes/custom-post-type-podcasts.php:78
+msgctxt "post type slug"
+msgid "podcasts"
+msgstr "podcast"
+
+#. Name of the plugin
+msgid "Custom Post Type Podcasts"
+msgstr "Custom Post Type Podcasts"
+
+#. Description of the plugin
+msgid "A custom post type for managing podcasts"
+msgstr "Post type zur Verwaltung von Podcasts"
+
+#. Author of the plugin
+msgid "Ralf Hortt"
+msgstr "Ralf Hortt"
